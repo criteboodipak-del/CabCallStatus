@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cab &amp; Call Status</string>
+    <string-array name="statuses">
+        <item>Online</item>
+        <item>Cab</item>
+        <item>Call</item>
+        <item>Offline</item>
+    </string-array>
+</resources>
